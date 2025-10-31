@@ -1,0 +1,13 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+.venv/
+env/
+.env
+
+# Ignore generated index directories
+faiss_index/
+faiss_index_genesis/
